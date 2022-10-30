@@ -10,4 +10,4 @@ Based on the achieved results I have developed strategies which that can optimiz
 ## More Information
 See the full analysis in the [Excel file](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/capstone%201.xlsx) or review this presentation.
 
-For additional info, contact Aizhan Baibolot at [](aizhanbaibolot0@gmail.com)
+For additional info, contact Aizhan Baibolot at []()aizhanbaibolot0@gmail.com
