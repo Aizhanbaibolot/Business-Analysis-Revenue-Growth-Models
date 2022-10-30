@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/car_1.jpg)
-# Lariat-Car-Rental
+# **Lariat Car Rental**
 ## Project Overview <p>
 The purpose of this  project is to minimize cost and maximize revenue of the company called **"Lariat"** that rents the Cars. Based on the requests of the employes 
 we went through the following calculation steps:
