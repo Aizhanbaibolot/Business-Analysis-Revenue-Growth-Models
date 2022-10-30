@@ -12,3 +12,4 @@ Based on the achieved results I have developed strategies which that can optimiz
 See the full analysis in the [Excel file](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/capstone%201.xlsx) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
 
 For additional info, contact Aizhan Baibolot at []()aizhanbaibolot0@gmail.com
+https://1drv.ms/x/s!Aq0hO2ADWvnDgRgk7AValxXS06hH
