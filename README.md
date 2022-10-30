@@ -9,6 +9,6 @@ we went through the following calculation steps:
 Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
 
 ### More Information
-See the full analysis in the [Excel file](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/capstone%201.xlsx) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Capstone%201.pptx).
+See the full analysis in the [Excel file](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/capstone%201.xlsx) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
 
 For additional info, contact Aizhan Baibolot at []()aizhanbaibolot0@gmail.com
