@@ -12,7 +12,8 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
 ## Strategy 1
  <img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200939718-4898ba87-f9e7-4612-a5a7-e21c7c463718.png">
 
-<img width="318" alt="image" src="https://user-images.githubusercontent.com/98500457/200939763-79b023a5-9600-454f-82e1-801b651d7ce7.png">
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200940542-5bf4010e-aa3a-4dcf-85f7-e48f71f10e14.png">
+
 
   
 * Assume 4300 cars instead of 4000, exclude cars model year 2016, purchase more cars model year 2019
