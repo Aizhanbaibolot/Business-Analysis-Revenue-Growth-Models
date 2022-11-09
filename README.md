@@ -29,7 +29,11 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
 
 
 
-* Strategy 2: Assume growth in revenue of cars, number of cars remains same
+## Strategy 2
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/98500457/200941744-3a15a80e-b0c8-44e9-acea-d8e34c9d7cbf.png">
+
+* Increase cost of the car rentals by 15%
+* Costs remain same, gross revenue $60M, net revenue $26.5M, which makes difference of $8M.
 * Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
 Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
 
