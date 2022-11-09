@@ -9,7 +9,16 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
 ## Base Assumptions 
 <img width="280" alt="Screen Shot 2022-11-09 at 12 47 35 PM" src="https://user-images.githubusercontent.com/98500457/200938614-dcd4e9ba-c9e6-4c30-9459-8d3784ba9757.png">
   
-* Strategy 1: Increase the number of cars
+## Strategy 1
+ <img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200939718-4898ba87-f9e7-4612-a5a7-e21c7c463718.png">
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/98500457/200939763-79b023a5-9600-454f-82e1-801b651d7ce7.png">
+
+  
+* Assume 4300 cars instead of 4000, exclude cars model year 2016, purchase more cars model year 2019
+* Increase In Net Revenue Of $6.6M
+
+
 * Strategy 2: Assume growth in revenue of cars, number of cars remains same
 * Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
 Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
