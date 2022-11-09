@@ -37,6 +37,20 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
 * Assume decrease in car cost by 8% and insurance cost by 5%
 * Gross revenue remains same, costs $30.5M, net revenue $22M, increase in net revenue  of $2.5M
   
+  
+## Recommendations
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/98500457/200942989-17192a86-ca58-4407-b341-0430ea882e21.png">
+
+Based on the analysis above I would recommend first and second strategies which are to increase number of cars and/or 
+to increase car rental price, and which will make difference in net revenue of $6.6M and $10M consequentially.
+ 
+## Result
+*	Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests).
+*	Consolidated raw data, completing exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance.
+*	Presented models that showcased a 20% increase in profits, while lowering operational costs.
+*	Tech: Microsoft Excel, Microsoft PowerPoint
+
+
 
 ### More Information
 See the full analysis in the [Excel file](https://1drv.ms/x/s!Aq0hO2ADWvnDgRgk7AValxXS06hH) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
