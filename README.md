@@ -17,6 +17,13 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
   
 * Assume 4300 cars instead of 4000, exclude cars model year 2016, purchase more cars model year 2019
 * Increase In Net Revenue Of $6.6M
+  
+### These are the Top 10 and Bottom 10 Cars recommended: 
+  
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/98500457/200940124-10432aea-56f1-43b7-9cc8-2a7cbf4f5e60.png">
+
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/98500457/200940167-4d653aa8-6d8f-4812-bd84-2720032cf9b5.png">
+
 
 
 * Strategy 2: Assume growth in revenue of cars, number of cars remains same
