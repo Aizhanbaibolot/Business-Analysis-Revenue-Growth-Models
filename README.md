@@ -25,17 +25,18 @@ The purpose of this  project was to minimize cost and maximize revenue of the La
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/98500457/200940894-38105f7a-404d-4725-8097-cc895e880c72.png">
 
-
-
-
-
 ## Strategy 2
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/98500457/200941744-3a15a80e-b0c8-44e9-acea-d8e34c9d7cbf.png">
 
 * Increase cost of the car rentals by 15%
 * Costs remain same, gross revenue $60M, net revenue $26.5M, which makes difference of $8M.
-* Strategy 3: Assume decrease of car cost and insurance cost to maximize net revenue
-Based on the achieved results I have developed strategies which that can optimize and forecaste revenue for 2019. 
+  
+## Strategy 3
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200941966-1bb7699d-7f9f-40a6-84c7-353012ffb1b4.png">
+
+* Assume decrease in car cost by 8% and insurance cost by 5%
+* Gross revenue remains same, costs $30.5M, net revenue $22M, increase in net revenue  of $2.5M
+  
 
 ### More Information
 See the full analysis in the [Excel file](https://1drv.ms/x/s!Aq0hO2ADWvnDgRgk7AValxXS06hH) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
